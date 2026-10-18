@@ -140,8 +140,8 @@ The dataset was prepared and cleaned before being used for SQL analysis and Powe
 
 **Dataset files:**
 
-- `healthcare_dataset.csv` — Original dataset
-- `hospital_admissions_cleaned.csv` — Cleaned dataset used for analysis
+- https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/hospital_admissions_raw_data.csv — Original dataset
+- https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/hospital_admissions_cleaned.csv — Cleaned dataset used for analysis
 
 ## SQL Analysis
 
@@ -161,7 +161,7 @@ The interactive hospital analytics dashboard was created using Microsoft Power B
 
 **File:**
 
-- `Hospital_Healthcare_Analytics.pbix`
+- https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/Hospital_Dashboard.pbix
 
 Download the Power BI file from this repository and open it using Microsoft Power BI Desktop to explore the dashboard.
 
@@ -171,15 +171,19 @@ Add your actual Power BI dashboard screenshots below to showcase the completed p
 
 ### Page 1 — Hospital Overview
 
-![Hospital Overview Dashboard](images/hospital_overview.png)
+https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/Hospital_executive_overview.png
 
 ### Page 2 — Patient and Admission Analysis
 
-![Patient and Admission Analysis](images/patient_admission_analysis.png)
+https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/Patient_and%20_admission_analysis.png
 
 ### Page 3 — Billing Analysis
 
-![Billing Analysis](images/billing_analysis.png)
+https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/Billing_analysis.png
+
+### Page 4 — Department Performance
+
+https://github.com/deekshi215/Hospital-Healthcare-Analytics/blob/main/Department_performance.png
 
 ## Key Insights
 
